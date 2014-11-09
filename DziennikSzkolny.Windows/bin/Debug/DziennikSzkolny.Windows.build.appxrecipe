@@ -7,59 +7,62 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>35c5fc23-f7b5-4593-9982-3ad0716bc2de</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.exe">
       <PackagePath>DziennikSzkolny.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\EdycjaDanych_Uczniowie.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\EdycjaDanych_Uczniowie.xbf">
       <PackagePath>EdycjaDanych_Uczniowie.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\Opcje.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\Opcje.xbf">
       <PackagePath>Opcje.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PanelAdministracyjny_Dyrektor.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PanelAdministracyjny_Dyrektor.xbf">
       <PackagePath>PanelAdministracyjny_Dyrektor.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PłaceNauczycielskiePage.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PłaceNauczycielskiePage.xbf">
       <PackagePath>PłaceNauczycielskiePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\StronazListaUczniow.xbf">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\StatystykiPage.xbf">
+      <PackagePath>StatystykiPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\StronazListaUczniow.xbf">
       <PackagePath>StronazListaUczniow.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.xr.xml">
       <PackagePath>DziennikSzkolny.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\Visual Studio 2013\Projects\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

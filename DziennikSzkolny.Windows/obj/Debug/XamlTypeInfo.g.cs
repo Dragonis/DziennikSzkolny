@@ -124,7 +124,7 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[13];
+            _typeNameTable = new string[14];
             _typeNameTable[0] = "DziennikSzkolny.EdycjaDanych_Uczniowie";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
@@ -137,9 +137,10 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
             _typeNameTable[9] = "DziennikSzkolny.Opcje";
             _typeNameTable[10] = "DziennikSzkolny.PanelAdministracyjny_Dyrektor";
             _typeNameTable[11] = "DziennikSzkolny.PłaceNauczycielskiePage";
-            _typeNameTable[12] = "DziennikSzkolny.StronazListaUczniow";
+            _typeNameTable[12] = "DziennikSzkolny.StatystykiPage";
+            _typeNameTable[13] = "DziennikSzkolny.StronazListaUczniow";
 
-            _typeTable = new global::System.Type[13];
+            _typeTable = new global::System.Type[14];
             _typeTable[0] = typeof(global::DziennikSzkolny.EdycjaDanych_Uczniowie);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
@@ -152,7 +153,8 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
             _typeTable[9] = typeof(global::DziennikSzkolny.Opcje);
             _typeTable[10] = typeof(global::DziennikSzkolny.PanelAdministracyjny_Dyrektor);
             _typeTable[11] = typeof(global::DziennikSzkolny.PłaceNauczycielskiePage);
-            _typeTable[12] = typeof(global::DziennikSzkolny.StronazListaUczniow);
+            _typeTable[12] = typeof(global::DziennikSzkolny.StatystykiPage);
+            _typeTable[13] = typeof(global::DziennikSzkolny.StronazListaUczniow);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -193,7 +195,8 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
         private object Activate_9_Opcje() { return new global::DziennikSzkolny.Opcje(); }
         private object Activate_10_PanelAdministracyjny_Dyrektor() { return new global::DziennikSzkolny.PanelAdministracyjny_Dyrektor(); }
         private object Activate_11_PłaceNauczycielskiePage() { return new global::DziennikSzkolny.PłaceNauczycielskiePage(); }
-        private object Activate_12_StronazListaUczniow() { return new global::DziennikSzkolny.StronazListaUczniow(); }
+        private object Activate_12_StatystykiPage() { return new global::DziennikSzkolny.StatystykiPage(); }
+        private object Activate_13_StronazListaUczniow() { return new global::DziennikSzkolny.StronazListaUczniow(); }
         private void MapAdd_3_ObservableDictionary(object instance, object key, object item)
         {
             var collection = (global::System.Collections.Generic.IDictionary<global::System.String, global::System.Object>)instance;
@@ -290,9 +293,18 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 12:   //  DziennikSzkolny.StronazListaUczniow
+            case 12:   //  DziennikSzkolny.StatystykiPage
                 userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_12_StronazListaUczniow;
+                userType.Activator = Activate_12_StatystykiPage;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 13:   //  DziennikSzkolny.StronazListaUczniow
+                userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_13_StronazListaUczniow;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
@@ -343,12 +355,22 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
             var that = (global::DziennikSzkolny.PłaceNauczycielskiePage)instance;
             return that.NavigationHelper;
         }
-        private object get_8_StronazListaUczniow_DefaultViewModel(object instance)
+        private object get_8_StatystykiPage_DefaultViewModel(object instance)
+        {
+            var that = (global::DziennikSzkolny.StatystykiPage)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_9_StatystykiPage_NavigationHelper(object instance)
+        {
+            var that = (global::DziennikSzkolny.StatystykiPage)instance;
+            return that.NavigationHelper;
+        }
+        private object get_10_StronazListaUczniow_DefaultViewModel(object instance)
         {
             var that = (global::DziennikSzkolny.StronazListaUczniow)instance;
             return that.DefaultViewModel;
         }
-        private object get_9_StronazListaUczniow_NavigationHelper(object instance)
+        private object get_11_StronazListaUczniow_NavigationHelper(object instance)
         {
             var that = (global::DziennikSzkolny.StronazListaUczniow)instance;
             return that.NavigationHelper;
@@ -409,16 +431,28 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
                 xamlMember.Getter = get_7_PłaceNauczycielskiePage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
+            case "DziennikSzkolny.StatystykiPage.DefaultViewModel":
+                userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.StatystykiPage");
+                xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "DziennikSzkolny.Common.ObservableDictionary");
+                xamlMember.Getter = get_8_StatystykiPage_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "DziennikSzkolny.StatystykiPage.NavigationHelper":
+                userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.StatystykiPage");
+                xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "DziennikSzkolny.Common.NavigationHelper");
+                xamlMember.Getter = get_9_StatystykiPage_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
             case "DziennikSzkolny.StronazListaUczniow.DefaultViewModel":
                 userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.StronazListaUczniow");
                 xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "DziennikSzkolny.Common.ObservableDictionary");
-                xamlMember.Getter = get_8_StronazListaUczniow_DefaultViewModel;
+                xamlMember.Getter = get_10_StronazListaUczniow_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "DziennikSzkolny.StronazListaUczniow.NavigationHelper":
                 userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.StronazListaUczniow");
                 xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "DziennikSzkolny.Common.NavigationHelper");
-                xamlMember.Getter = get_9_StronazListaUczniow_NavigationHelper;
+                xamlMember.Getter = get_11_StronazListaUczniow_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             }

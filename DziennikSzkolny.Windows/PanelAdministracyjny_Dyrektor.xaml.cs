@@ -120,5 +120,15 @@ namespace DziennikSzkolny
             }
         }
 
+        private void PokazStatystyki(object sender, TappedRoutedEventArgs e)
+        {
+            if (this.Frame != null)
+            {
+                this.Frame.Navigate(typeof(
+                    StatystykiPage
+                    ));
+            }
+        }
+
     }
 }

@@ -56,7 +56,7 @@
                 <TextBlock TextWrapping="Wrap" Text="Edycja planu zajęć" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
-            <StackPanel Height="139" Width="376" Background="#FFFF4F1B">
+            <StackPanel Height="139" Width="376" Background="#FFFF4F1B" Tapped="PokazStatystyki">
                 <TextBlock TextWrapping="Wrap" Text="Statystyki" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>

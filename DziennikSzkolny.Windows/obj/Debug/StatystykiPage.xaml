@@ -8,7 +8,6 @@
     xmlns:common="using:DziennikSzkolny.Common"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:charting="using:DataVirtualization.Toolkit.Charting"
     mc:Ignorable="d">
 
     <Page.Resources>
@@ -46,8 +45,6 @@
                         AutomationProperties.ItemType="Navigation Button"/>
             <TextBlock x:Name="pageTitle" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40" Text="Statystyki"/>
-            <charting:PieChart x:Name="chart" HorizontalAlignment="Left" Margin="522,175,0,0" VerticalAlignment="Top" Height="275" Width="552"/>
-
         </Grid>
     </Grid>
 </Page>

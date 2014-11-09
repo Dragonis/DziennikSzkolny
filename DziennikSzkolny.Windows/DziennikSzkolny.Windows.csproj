@@ -126,6 +126,9 @@
     <Compile Include="PłaceNauczycielskiePage.xaml.cs">
       <DependentUpon>PłaceNauczycielskiePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="StatystykiPage.xaml.cs">
+      <DependentUpon>StatystykiPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StronazListaUczniow.xaml.cs">
       <DependentUpon>StronazListaUczniow.xaml</DependentUpon>
     </Compile>
@@ -160,6 +163,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="PłaceNauczycielskiePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StatystykiPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
