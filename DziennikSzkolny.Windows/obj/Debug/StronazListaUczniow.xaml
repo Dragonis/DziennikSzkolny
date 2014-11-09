@@ -69,7 +69,7 @@
                     <Setter Property="Margin" Value="0,0,0,10"/>
                 </Style>
             </ListView.ItemContainerStyle>
-            <SearchBox Height="50" Width="250"/>
+            <SearchBox Height="30" Width="250"/>
             
             <StackPanel Height="140" Width="189">
                 <StackPanel.Background>
