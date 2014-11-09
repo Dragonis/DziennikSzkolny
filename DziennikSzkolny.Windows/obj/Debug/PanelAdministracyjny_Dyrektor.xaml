@@ -60,7 +60,7 @@
                 <TextBlock TextWrapping="Wrap" Text="Statystyki" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
-            <StackPanel Height="139" Width="376" Background="#FF038176">
+            <StackPanel x:ConnectionId='2' Height="139" Width="376" Background="#FF038176"                                             >
                 <TextBlock TextWrapping="Wrap" Text="Edycja płac nauczycieli" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
@@ -68,7 +68,7 @@
                 <TextBlock TextWrapping="Wrap" Text="Ranking szkół" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
-            <StackPanel x:ConnectionId='2' Height="139" Width="376" Background="#FF570043"                                           >
+            <StackPanel x:ConnectionId='3' Height="139" Width="376" Background="#FF570043"                                           >
                 <TextBlock TextWrapping="Wrap" Text="Opcje" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
@@ -77,7 +77,7 @@
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
             <StackPanel Height="139" Width="376" Background="#FF9B7308">
-                <TextBlock TextWrapping="Wrap" Text="Spis ocen" HorizontalAlignment="Center"/>
+                <TextBlock TextWrapping="Wrap" Text="Dziennik zajęć" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
         </GridView>

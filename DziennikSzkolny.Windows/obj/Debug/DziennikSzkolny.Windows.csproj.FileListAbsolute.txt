@@ -50,3 +50,8 @@ c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSz
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\StronazListaUczniow.g.cs
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\StronazListaUczniow.xaml
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\StronazListaUczniow.xbf
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PłaceNauczycielskiePage.xbf
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\PłaceNauczycielskiePage.g.i.cs
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\PłaceNauczycielskiePage.g.cs
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\PłaceNauczycielskiePage.xaml
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\PłaceNauczycielskiePage.xbf

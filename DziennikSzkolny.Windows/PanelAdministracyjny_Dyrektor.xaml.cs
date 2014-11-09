@@ -110,5 +110,15 @@ namespace DziennikSzkolny
             }
         }
 
+        private void WyswietlStronezzZarobkmiNauczycieli(object sender, TappedRoutedEventArgs e)
+        {
+            if (this.Frame != null)
+            {
+                this.Frame.Navigate(typeof(
+                    PłaceNauczycielskiePage
+                    ));
+            }
+        }
+
     }
 }
