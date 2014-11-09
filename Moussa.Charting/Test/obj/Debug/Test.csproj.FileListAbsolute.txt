@@ -1,0 +1,15 @@
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\Test.g.resources
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\ApplicationIcon.png
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\Background.png
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\Test.dll
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\Test.pdb
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\AppManifest.xaml
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\Test.xap
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\Moussa.Charting.dll
+D:\My Worx\WP7.1\Moussa.Charting\Test\Bin\Debug\Moussa.Charting.pdb
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\Test.dll
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\Test.pdb
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\XapCacheFile.xml
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\App.g.i.cs
+D:\My Worx\WP7.1\Moussa.Charting\Test\obj\Debug\MainPage.g.i.cs

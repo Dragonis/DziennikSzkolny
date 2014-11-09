@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DRAGONIS</Machine>
+    <WindowsUser>Wojtek</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4d71d63c-8d9e-4a38-b9ed-7b472c394265</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.dll">
+      <PackagePath>DataVirtualizationToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Charting\PieChart.xaml">
+      <PackagePath>DataVirtualizationToolkit\Charting\PieChart.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\DesignData\ChartSampleData.xaml">
+      <PackagePath>DataVirtualizationToolkit\DesignData\ChartSampleData.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Legends\Legend.xaml">
+      <PackagePath>DataVirtualizationToolkit\Legends\Legend.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Legends\LegendItem.xaml">
+      <PackagePath>DataVirtualizationToolkit\Legends\LegendItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Plotter\Plotter.xaml">
+      <PackagePath>DataVirtualizationToolkit\Plotter\Plotter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Plotter\PiePlotter.xaml">
+      <PackagePath>DataVirtualizationToolkit\Plotter\PiePlotter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Themes\generic.xaml">
+      <PackagePath>DataVirtualizationToolkit\Themes\generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\Themes\MyUserControl1.xaml">
+      <PackagePath>DataVirtualizationToolkit\Themes\MyUserControl1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\ToolTip.xaml">
+      <PackagePath>DataVirtualizationToolkit\ToolTip.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

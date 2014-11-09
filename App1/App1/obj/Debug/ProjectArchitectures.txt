@@ -1,0 +1,2 @@
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\App1\App1.csproj;neutral
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\DataVirtualization.Toolkit.csproj;neutral

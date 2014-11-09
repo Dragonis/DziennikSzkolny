@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="DataVirtualizationToolkit" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="DataVirtualizationToolkit">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="Chart_Axes_SetterNotSupported" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Chart_Axes_SetterNotSupported">
+					<Candidate type="String">
+						<Value>Changing the Chart's Axes property is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Chart_AxisLocationChanged_CantBeChangedToAutoWhenHostedInsideOfASeriesHost" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Chart_AxisLocationChanged_CantBeChangedToAutoWhenHostedInsideOfASeriesHost">
+					<Candidate type="String">
+						<Value>Axis location cannot be changed to auto when hosted inside of a series host.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Chart_Series_SetterNotSupported" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Chart_Series_SetterNotSupported">
+					<Candidate type="String">
+						<Value>Changing the Chart's Series property is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataPointSeriesDropTarget_set_Content_ContentMustBeAChart" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DataPointSeriesDropTarget_set_Content_ContentMustBeAChart">
+					<Candidate type="String">
+						<Value>The content property must be set to a Chart object.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataPointSeriesWithAxes_GetAxes_AssignedDependentAxisCannotBeUsed" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DataPointSeriesWithAxes_GetAxes_AssignedDependentAxisCannotBeUsed">
+					<Candidate type="String">
+						<Value>Assigned dependent axis cannot be used. This may be due to an unset Orientation property for the axis or a type mismatch between the values being plotted and those supported by the axis.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataPointSeriesWithAxes_GetAxes_AssignedIndependentAxisCannotBeUsed" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DataPointSeriesWithAxes_GetAxes_AssignedIndependentAxisCannotBeUsed">
+					<Candidate type="String">
+						<Value>Assigned independent axis cannot be used. This may be due to an unset Orientation property for the axis.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataPointSeriesWithAxes_NoSuitableAxisAvailableForPlottingDependentValue" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DataPointSeriesWithAxes_NoSuitableAxisAvailableForPlottingDependentValue">
+					<Candidate type="String">
+						<Value>No suitable axis is available for plotting the dependent value.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DataPointSeriesWithAxes_ThisSeriesDoesNotSupportRadialAxes" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DataPointSeriesWithAxes_ThisSeriesDoesNotSupportRadialAxes">
+					<Candidate type="String">
+						<Value>This series does not support radial axes.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DefinitionSeries_EnsureAxes_MissingDependentValueBinding" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DefinitionSeries_EnsureAxes_MissingDependentValueBinding">
+					<Candidate type="String">
+						<Value>A SeriesDefinition does not have its DependentValueBinding or DependentValuePath properties set; unable to determine the source for dependent values. Please use either of these properties to identify the data model property corresponding to the dependent values.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DefinitionSeries_EnsureAxes_MissingIndependentValueBinding" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DefinitionSeries_EnsureAxes_MissingIndependentValueBinding">
+					<Candidate type="String">
+						<Value>A SeriesDefinition does not have its IndependentValueBinding or IndependentValuePath properties set; unable to determine the source for independent values. Please use either of these properties to identify the data model property corresponding to the independent values.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DefinitionSeries_SeriesDefinitions_SetterNotSupported" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DefinitionSeries_SeriesDefinitions_SetterNotSupported">
+					<Candidate type="String">
+						<Value>Changing the SeriesDefinitions property of a DefinitionSeries is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DisplayAxis_GetLength_CannotDetermineTheLengthOfAnAxisWithAnOrientationOfNone" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/DisplayAxis_GetLength_CannotDetermineTheLengthOfAnAxisWithAnOrientationOfNone">
+					<Candidate type="String">
+						<Value>Cannot determine the size of an axis without an orientation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EdgePanel_OnEdgePropertyChanged" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/EdgePanel_OnEdgePropertyChanged">
+					<Candidate type="String">
+						<Value>Attempt to set Edge property to an invalid value.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Interpolator_IncludeInRange_DataRangeBindingNotIConvertible" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Interpolator_IncludeInRange_DataRangeBindingNotIConvertible">
+					<Candidate type="String">
+						<Value>The DataRangeBinding property of the Interpolator must be bound to an IConvertible object.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RangeAxis_MaximumValueMustBeLargerThanOrEqualToMinimumValue" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/RangeAxis_MaximumValueMustBeLargerThanOrEqualToMinimumValue">
+					<Candidate type="String">
+						<Value>The maximum value must be larger than or equal to the minimum value.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RangeAxis_MinimumValueMustBeLargerThanOrEqualToMaximumValue" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/RangeAxis_MinimumValueMustBeLargerThanOrEqualToMaximumValue">
+					<Candidate type="String">
+						<Value>The minimum value must be smaller than or equal to the maximum value.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Range_ctor_MaximumValueMustBeLargerThanOrEqualToMinimumValue" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Range_ctor_MaximumValueMustBeLargerThanOrEqualToMinimumValue">
+					<Candidate type="String">
+						<Value>The maximum value must be larger than or equal to the minimum value.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Range_get_Maximum_CannotReadTheMaximumOfAnEmptyRange" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Range_get_Maximum_CannotReadTheMaximumOfAnEmptyRange">
+					<Candidate type="String">
+						<Value>Cannot read the Maximum of an empty range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Range_get_Minimum_CannotReadTheMinimumOfAnEmptyRange" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Range_get_Minimum_CannotReadTheMinimumOfAnEmptyRange">
+					<Candidate type="String">
+						<Value>Cannot read the Minimum of an empty range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Range_ToString_Data" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Range_ToString_Data">
+					<Candidate type="String">
+						<Value>[{0},{1}]</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Range_ToString_NoData" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Range_ToString_NoData">
+					<Candidate type="String">
+						<Value>No Data.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ReadOnlyObservableCollection_CollectionIsReadOnly" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/ReadOnlyObservableCollection_CollectionIsReadOnly">
+					<Candidate type="String">
+						<Value>Collection is read-only.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ResourceDictionaryEnumerator_CantResetEnumeratorResetDispenserInstead" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/ResourceDictionaryEnumerator_CantResetEnumeratorResetDispenserInstead">
+					<Candidate type="String">
+						<Value>Cannot reset a ResourceDictionaryEnumerator; reset the ResourceDictionaryDispenser instead.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SeriesDefinition_SeriesHost_InvalidParent" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/SeriesDefinition_SeriesHost_InvalidParent">
+					<Candidate type="String">
+						<Value>A SeriesDefinition instance's SeriesHost property may only be set to an instance of the DefinitionSeries class; other SeriesHost types are not supported.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SeriesHostAxesCollection_InvalidAttemptToRemovePermanentAxisFromSeriesHost" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/SeriesHostAxesCollection_InvalidAttemptToRemovePermanentAxisFromSeriesHost">
+					<Candidate type="String">
+						<Value>Invalid attempt to remove permanent axis from axis collection.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SeriesHostAxesCollection_RemoveItem_AxisCannotBeRemovedFromASeriesHostWhenOneOrMoreSeriesAreListeningToIt" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/SeriesHostAxesCollection_RemoveItem_AxisCannotBeRemovedFromASeriesHostWhenOneOrMoreSeriesAreListeningToIt">
+					<Candidate type="String">
+						<Value>An axis cannot be removed from a series host when one or more hosted series is listening to it.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Series_OnGlobalSeriesIndexPropertyChanged_UntitledSeriesFormatString" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Series_OnGlobalSeriesIndexPropertyChanged_UntitledSeriesFormatString">
+					<Candidate type="String">
+						<Value>Series {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Series_SeriesHost_SeriesHostPropertyNotNull" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/Series_SeriesHost_SeriesHostPropertyNotNull">
+					<Candidate type="String">
+						<Value>A series cannot be added to more than one series host.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TreeMap_BuildTreeMapTree_TemplateNotSet" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/TreeMap_BuildTreeMapTree_TemplateNotSet">
+					<Candidate type="String">
+						<Value>Either ItemTemplate must be set or TreeMapItemDefinitionSelector must return a non-null template.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TreeMap_CreateChildren_InterpolatorBindingNotSet" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/TreeMap_CreateChildren_InterpolatorBindingNotSet">
+					<Candidate type="String">
+						<Value>The value of PropertyBinding property of an interpolator cannot be null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TreeMap_Interpolators_SetterNotSupported" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/TreeMap_Interpolators_SetterNotSupported">
+					<Candidate type="String">
+						<Value>Changing the TreeMap's Interpolators Property is not supported; changes to the collection should be made with its .Add/.Remove methods instead.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UniqueObservableCollection_InvalidAttemptToInsertADuplicateItem" uri="ms-resource://DataVirtualizationToolkit/DataVirtualizationToolkit/Resources/UniqueObservableCollection_InvalidAttemptToInsertADuplicateItem">
+					<Candidate type="String">
+						<Value>Invalid attempt to insert a duplicate item.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="DataVirtualizationToolkit">
+				<NamedResource name="ToolTip.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/ToolTip.xaml">
+					<Candidate type="Path">
+						<Value>DataVirtualizationToolkit\ToolTip.xaml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Charting">
+					<NamedResource name="PieChart.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Charting/PieChart.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Charting\PieChart.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="DesignData">
+					<NamedResource name="ChartSampleData.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/DesignData/ChartSampleData.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\DesignData\ChartSampleData.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Legends">
+					<NamedResource name="Legend.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Legends/Legend.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Legends\Legend.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LegendItem.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Legends/LegendItem.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Legends\LegendItem.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Plotter">
+					<NamedResource name="PiePlotter.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Plotter/PiePlotter.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Plotter\PiePlotter.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Plotter.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Plotter/Plotter.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Plotter\Plotter.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Themes/generic.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Themes\generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MyUserControl1.xaml" uri="ms-resource://DataVirtualizationToolkit/Files/DataVirtualizationToolkit/Themes/MyUserControl1.xaml">
+						<Candidate type="Path">
+							<Value>DataVirtualizationToolkit\Themes\MyUserControl1.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

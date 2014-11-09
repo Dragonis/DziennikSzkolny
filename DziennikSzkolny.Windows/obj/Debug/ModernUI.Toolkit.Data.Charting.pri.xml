@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="ModernUI.Toolkit.Data.Charting" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="Resources.resx" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/Resources.resx">
+				<Candidate type="Path">
+					<Value>Resources.resx</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="ModernUI.Toolkit.Data.Charting">
+				<ResourceMapSubtree name="Charts">
+					<ResourceMapSubtree name="Axis">
+						<NamedResource name="DateTimeAxisLabel.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Axis/DateTimeAxisLabel.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Axis\DateTimeAxisLabel.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DisplayAxis.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Axis/DisplayAxis.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Axis\DisplayAxis.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="NumericAxisLabel.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Axis/NumericAxisLabel.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Axis\NumericAxisLabel.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="RangeAxis.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Axis/RangeAxis.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Axis\RangeAxis.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Chart">
+						<NamedResource name="Chart.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Chart/Chart.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Chart\Chart.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="DataPoint">
+						<NamedResource name="AreaDataPoint.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/DataPoint/AreaDataPoint.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\AreaDataPoint.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="BarDataPoint.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/DataPoint/BarDataPoint.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\BarDataPoint.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="BubbleDataPoint.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/DataPoint/BubbleDataPoint.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\BubbleDataPoint.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ColumnDataPoint.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/DataPoint/ColumnDataPoint.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\ColumnDataPoint.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LineDataPoint.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/DataPoint/LineDataPoint.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\LineDataPoint.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ScatterDataPoint.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/DataPoint/ScatterDataPoint.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\ScatterDataPoint.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Primitives">
+						<NamedResource name="DelegatingListBox.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Primitives/DelegatingListBox.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Primitives\DelegatingListBox.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Series">
+						<NamedResource name="AreaSeries.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Series/AreaSeries.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Series\AreaSeries.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DataPointSeries.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Series/DataPointSeries.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Series\DataPointSeries.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DefinitionSeries.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Series/DefinitionSeries.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Series\DefinitionSeries.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LegendItem.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Series/LegendItem.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Series\LegendItem.xaml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LineSeries.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Charts/Series/LineSeries.xaml">
+							<Candidate type="Path">
+								<Value>ModernUI.Toolkit.Data.Charting\Charts\Series\LineSeries.xaml</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Themes/generic.xaml">
+						<Candidate type="Path">
+							<Value>ModernUI.Toolkit.Data.Charting\Themes\generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Title">
+					<NamedResource name="Title.xaml" uri="ms-resource://ModernUI.Toolkit.Data.Charting/Files/ModernUI.Toolkit.Data.Charting/Title/Title.xaml">
+						<Candidate type="Path">
+							<Value>ModernUI.Toolkit.Data.Charting\Title\Title.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

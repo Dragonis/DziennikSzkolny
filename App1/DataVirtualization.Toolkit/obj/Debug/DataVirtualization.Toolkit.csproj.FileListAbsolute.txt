@@ -1,0 +1,121 @@
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.dll
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.pdb
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.pri
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\generic.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\generic.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\ToolTip.g.i.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\ToolTip.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\XamlTypeInfo.g.cs
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\generic.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\ToolTip.xaml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DataVirtualizationToolkit.dll
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DataVirtualizationToolkit.pdb
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\priconfig.xml
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\layout.resfiles
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\resources.resfiles
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\pri.resfiles
+D:\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\LanguageQualifiers.txt
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.dll
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.pdb
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.pri
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\generic.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\generic.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\ToolTip.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\ToolTip.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\XamlTypeInfo.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\generic.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\ToolTip.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DataVirtualizationToolkit.dll
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\DataVirtualizationToolkit.pdb
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\priconfig.xml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\layout.resfiles
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\resources.resfiles
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\pri.resfiles
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\LanguageQualifiers.txt
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\MyUserControl1.g.i.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\MyUserControl1.g.cs
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\Themes\MyUserControl1.xaml
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\priconfig.xml.intermediate
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\layout.resfiles.intermediate
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\resources.resfiles.intermediate
+C:\D\MyWorx\CIDvNext\Main\SourceCode\CIDvNext\ResuableControls\DataVirtualization.Toolkit\obj\Debug\pri.resfiles.intermediate
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.dll
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.pdb
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\bin\Debug\DataVirtualizationToolkit.pri
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Themes\generic.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Themes\generic.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Themes\MyUserControl1.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Themes\MyUserControl1.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\ToolTip.g.i.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\ToolTip.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Charting\PieChart.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\DesignData\ChartSampleData.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Legends\Legend.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Legends\LegendItem.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Plotter\Plotter.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Plotter\PiePlotter.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Themes\generic.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\Themes\MyUserControl1.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\ToolTip.xaml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\DataVirtualizationToolkit.dll
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\DataVirtualizationToolkit.pdb
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\priconfig.xml
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\priconfig.xml.intermediate
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\layout.resfiles
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\layout.resfiles.intermediate
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\resources.resfiles
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\resources.resfiles.intermediate
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\pri.resfiles
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\pri.resfiles.intermediate
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\qualifiers.txt
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Wojtek\Documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\App1\DataVirtualization.Toolkit\obj\Debug\MultipleQualifiersPerDimensionFound.txt

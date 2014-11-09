@@ -1,0 +1,9 @@
+DataVirtualizationToolkit\Charting\PieChart.xaml
+DataVirtualizationToolkit\DesignData\ChartSampleData.xaml
+DataVirtualizationToolkit\Legends\Legend.xaml
+DataVirtualizationToolkit\Legends\LegendItem.xaml
+DataVirtualizationToolkit\Plotter\PiePlotter.xaml
+DataVirtualizationToolkit\Plotter\Plotter.xaml
+DataVirtualizationToolkit\Themes\generic.xaml
+DataVirtualizationToolkit\Themes\MyUserControl1.xaml
+DataVirtualizationToolkit\ToolTip.xaml

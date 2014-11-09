@@ -1,0 +1,8 @@
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\obj\Debug\Moussa.Charting.g.resources
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\Bin\Debug\Moussa.Charting.dll
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\Bin\Debug\Moussa.Charting.pdb
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\obj\Debug\Moussa.Charting.dll
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\obj\Debug\Moussa.Charting.pdb
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\obj\Debug\StackedBar.g.i.cs
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\obj\Debug\StackedBarDataItem.g.i.cs
+D:\My Worx\WP7.1\Moussa.Charting\Moussa.Charting\obj\Debug\StackedBarDataPoint.g.i.cs
