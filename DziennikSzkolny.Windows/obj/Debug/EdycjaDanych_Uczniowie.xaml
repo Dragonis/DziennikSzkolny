@@ -47,11 +47,30 @@
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40" Text="Edycja Danych - Uczniowie"/>
 
         </Grid>
-        <GridView HorizontalAlignment="Left" Height="515" Margin="81,63,0,0" Grid.Row="1" VerticalAlignment="Top" Width="1228">
-            <StackPanel Height="151" Width="200">
-                <TextBlock TextWrapping="Wrap" Text="1 klasa" FontSize="30"/>
+        <GridView HorizontalAlignment="Center" Height="500" Margin="81,63,0,0" Grid.Row="2" VerticalAlignment="Stretch" Width="1228">
+
+            <StackPanel Height="139" Width="376" Background="#FFDC2525" IsRightTapEnabled="False" >
+                <TextBlock TextWrapping="Wrap" Text="1 klasa" HorizontalAlignment="Center" FontSize="26"/>
+                <Image Height="100" Source="Assets/SplashScreen.png"/>
+            </StackPanel>
+
+            <StackPanel Height="139" Width="376" Background="#FF47D128">
+                <TextBlock TextWrapping="Wrap" Text="2 klasa" HorizontalAlignment="Center" FontSize="26" />
+                <Image Height="100" Source="Assets/SplashScreen.png"/>
+            </StackPanel>
+            <StackPanel Height="139" Width="376" Background="#FFFF4F1B">
+                <TextBlock TextWrapping="Wrap" Text="3 klasa" HorizontalAlignment="Center" FontSize="26"/>
+                <Image Height="100" Source="Assets/SplashScreen.png"/>
+            </StackPanel>
+            <StackPanel Height="139" Width="376" Background="#FF038176">
+                <TextBlock TextWrapping="Wrap" Text="4 klasa" HorizontalAlignment="Center" FontSize="26"/>
+                <Image Height="100" Source="Assets/SplashScreen.png"/>
+            </StackPanel>
+            <StackPanel Height="151" Width="365" VerticalAlignment="Center" Background="#FF2F1AB4" >
+                <TextBlock TextWrapping="Wrap" Text="5 klasa" FontSize="26" TextAlignment="Center" />
                 <Image Height="100" Source="Assets/Logo.png"/>
             </StackPanel>
+            <Button Content="Dodaj klasę" Height="66" Width="174" FontSize="26"/>
 
         </GridView>
 
