@@ -68,7 +68,7 @@
                 <TextBlock TextWrapping="Wrap" Text="Ranking szkół" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>
-            <StackPanel Height="139" Width="376" Background="#FF570043">
+            <StackPanel Height="139" Width="376" Background="#FF570043" Tapped="WyswietlStronezOpcjamiUzytkownika">
                 <TextBlock TextWrapping="Wrap" Text="Opcje" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>

@@ -20,13 +20,13 @@
     <AppXManifest Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-09T13:28:54.053</Modified>
+      <Modified>2014-11-09T14:57:21.109</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.exe">
       <PackagePath>DziennikSzkolny.Windows.exe</PackagePath>
-      <Modified>2014-11-09T13:50:47.623</Modified>
+      <Modified>2014-11-09T15:03:22.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -56,17 +56,21 @@
       <PackagePath>MainPage.xbf</PackagePath>
       <Modified>2014-11-09T13:28:52.788</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\Opcje.xbf">
+      <PackagePath>Opcje.xbf</PackagePath>
+      <Modified>2014-11-09T15:03:21.743</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PanelAdministracyjny_Dyrektor.xbf">
       <PackagePath>PanelAdministracyjny_Dyrektor.xbf</PackagePath>
-      <Modified>2014-11-09T13:50:47.163</Modified>
+      <Modified>2014-11-09T15:03:21.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.xr.xml">
       <PackagePath>DziennikSzkolny.Windows.xr.xml</PackagePath>
-      <Modified>2014-11-09T13:50:47.102</Modified>
+      <Modified>2014-11-09T15:03:21.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-11-09T13:28:53.844</Modified>
+      <Modified>2014-11-09T14:57:20.421</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

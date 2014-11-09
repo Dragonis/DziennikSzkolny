@@ -35,3 +35,8 @@ c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSz
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\qualifiers.txt.intermediate
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\ProjectArchitectures.txt
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\Opcje.xbf
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.g.i.cs
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.g.cs
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.xaml
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.xbf
