@@ -40,3 +40,8 @@ c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSz
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.g.cs
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.xaml
 c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\Opcje.xbf
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\EdycjaDanych_Uczniowie.xbf
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\EdycjaDanych_Uczniowie.g.i.cs
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\EdycjaDanych_Uczniowie.g.cs
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\EdycjaDanych_Uczniowie.xaml
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\EdycjaDanych_Uczniowie.xbf

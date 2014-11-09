@@ -47,7 +47,7 @@
             SelectionMode="None"
             IsSwipeEnabled="false">
 
-            <StackPanel Height="139" Width="376" Background="#FFDC2525" IsRightTapEnabled="False">
+            <StackPanel Height="139" Width="376" Background="#FFDC2525" IsRightTapEnabled="False" Tapped="EdycjaDanychUczniowie">
                 <TextBlock TextWrapping="Wrap" Text="Edycja danych uczniów" HorizontalAlignment="Center"/>
                 <Image Height="100" Source="Assets/SplashScreen.png"/>
             </StackPanel>

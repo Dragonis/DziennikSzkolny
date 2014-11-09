@@ -124,29 +124,31 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[10];
-            _typeNameTable[0] = "DziennikSzkolny.MainPage";
+            _typeNameTable = new string[11];
+            _typeNameTable[0] = "DziennikSzkolny.EdycjaDanych_Uczniowie";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "DziennikSzkolny.Opcje";
-            _typeNameTable[4] = "DziennikSzkolny.Common.ObservableDictionary";
-            _typeNameTable[5] = "Object";
-            _typeNameTable[6] = "String";
-            _typeNameTable[7] = "DziennikSzkolny.Common.NavigationHelper";
-            _typeNameTable[8] = "Windows.UI.Xaml.DependencyObject";
-            _typeNameTable[9] = "DziennikSzkolny.PanelAdministracyjny_Dyrektor";
+            _typeNameTable[3] = "DziennikSzkolny.Common.ObservableDictionary";
+            _typeNameTable[4] = "Object";
+            _typeNameTable[5] = "String";
+            _typeNameTable[6] = "DziennikSzkolny.Common.NavigationHelper";
+            _typeNameTable[7] = "Windows.UI.Xaml.DependencyObject";
+            _typeNameTable[8] = "DziennikSzkolny.MainPage";
+            _typeNameTable[9] = "DziennikSzkolny.Opcje";
+            _typeNameTable[10] = "DziennikSzkolny.PanelAdministracyjny_Dyrektor";
 
-            _typeTable = new global::System.Type[10];
-            _typeTable[0] = typeof(global::DziennikSzkolny.MainPage);
+            _typeTable = new global::System.Type[11];
+            _typeTable[0] = typeof(global::DziennikSzkolny.EdycjaDanych_Uczniowie);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::DziennikSzkolny.Opcje);
-            _typeTable[4] = typeof(global::DziennikSzkolny.Common.ObservableDictionary);
-            _typeTable[5] = typeof(global::System.Object);
-            _typeTable[6] = typeof(global::System.String);
-            _typeTable[7] = typeof(global::DziennikSzkolny.Common.NavigationHelper);
-            _typeTable[8] = typeof(global::Windows.UI.Xaml.DependencyObject);
-            _typeTable[9] = typeof(global::DziennikSzkolny.PanelAdministracyjny_Dyrektor);
+            _typeTable[3] = typeof(global::DziennikSzkolny.Common.ObservableDictionary);
+            _typeTable[4] = typeof(global::System.Object);
+            _typeTable[5] = typeof(global::System.String);
+            _typeTable[6] = typeof(global::DziennikSzkolny.Common.NavigationHelper);
+            _typeTable[7] = typeof(global::Windows.UI.Xaml.DependencyObject);
+            _typeTable[8] = typeof(global::DziennikSzkolny.MainPage);
+            _typeTable[9] = typeof(global::DziennikSzkolny.Opcje);
+            _typeTable[10] = typeof(global::DziennikSzkolny.PanelAdministracyjny_Dyrektor);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -181,11 +183,12 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_MainPage() { return new global::DziennikSzkolny.MainPage(); }
-        private object Activate_3_Opcje() { return new global::DziennikSzkolny.Opcje(); }
-        private object Activate_4_ObservableDictionary() { return new global::DziennikSzkolny.Common.ObservableDictionary(); }
-        private object Activate_9_PanelAdministracyjny_Dyrektor() { return new global::DziennikSzkolny.PanelAdministracyjny_Dyrektor(); }
-        private void MapAdd_4_ObservableDictionary(object instance, object key, object item)
+        private object Activate_0_EdycjaDanych_Uczniowie() { return new global::DziennikSzkolny.EdycjaDanych_Uczniowie(); }
+        private object Activate_3_ObservableDictionary() { return new global::DziennikSzkolny.Common.ObservableDictionary(); }
+        private object Activate_8_MainPage() { return new global::DziennikSzkolny.MainPage(); }
+        private object Activate_9_Opcje() { return new global::DziennikSzkolny.Opcje(); }
+        private object Activate_10_PanelAdministracyjny_Dyrektor() { return new global::DziennikSzkolny.PanelAdministracyjny_Dyrektor(); }
+        private void MapAdd_3_ObservableDictionary(object instance, object key, object item)
         {
             var collection = (global::System.Collections.Generic.IDictionary<global::System.String, global::System.Object>)instance;
             var newKey = (global::System.String)key;
@@ -203,9 +206,11 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  DziennikSzkolny.MainPage
+            case 0:   //  DziennikSzkolny.EdycjaDanych_Uczniowie
                 userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_MainPage;
+                userType.Activator = Activate_0_EdycjaDanych_Uczniowie;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -218,45 +223,52 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
                 xamlType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  DziennikSzkolny.Opcje
-                userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_Opcje;
-                userType.AddMemberName("DefaultViewModel");
-                userType.AddMemberName("NavigationHelper");
-                userType.SetIsLocalType();
-                xamlType = userType;
-                break;
-
-            case 4:   //  DziennikSzkolny.Common.ObservableDictionary
+            case 3:   //  DziennikSzkolny.Common.ObservableDictionary
                 userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
-                userType.DictionaryAdd = MapAdd_4_ObservableDictionary;
+                userType.DictionaryAdd = MapAdd_3_ObservableDictionary;
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 5:   //  Object
+            case 4:   //  Object
                 xamlType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 6:   //  String
+            case 5:   //  String
                 xamlType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 7:   //  DziennikSzkolny.Common.NavigationHelper
+            case 6:   //  DziennikSzkolny.Common.NavigationHelper
                 userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.DependencyObject"));
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 8:   //  Windows.UI.Xaml.DependencyObject
+            case 7:   //  Windows.UI.Xaml.DependencyObject
                 xamlType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 9:   //  DziennikSzkolny.PanelAdministracyjny_Dyrektor
+            case 8:   //  DziennikSzkolny.MainPage
                 userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_9_PanelAdministracyjny_Dyrektor;
+                userType.Activator = Activate_8_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 9:   //  DziennikSzkolny.Opcje
+                userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_9_Opcje;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 10:   //  DziennikSzkolny.PanelAdministracyjny_Dyrektor
+                userType = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_10_PanelAdministracyjny_Dyrektor;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
@@ -267,22 +279,32 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
         }
 
 
-        private object get_0_Opcje_DefaultViewModel(object instance)
+        private object get_0_EdycjaDanych_Uczniowie_DefaultViewModel(object instance)
+        {
+            var that = (global::DziennikSzkolny.EdycjaDanych_Uczniowie)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_1_EdycjaDanych_Uczniowie_NavigationHelper(object instance)
+        {
+            var that = (global::DziennikSzkolny.EdycjaDanych_Uczniowie)instance;
+            return that.NavigationHelper;
+        }
+        private object get_2_Opcje_DefaultViewModel(object instance)
         {
             var that = (global::DziennikSzkolny.Opcje)instance;
             return that.DefaultViewModel;
         }
-        private object get_1_Opcje_NavigationHelper(object instance)
+        private object get_3_Opcje_NavigationHelper(object instance)
         {
             var that = (global::DziennikSzkolny.Opcje)instance;
             return that.NavigationHelper;
         }
-        private object get_2_PanelAdministracyjny_Dyrektor_DefaultViewModel(object instance)
+        private object get_4_PanelAdministracyjny_Dyrektor_DefaultViewModel(object instance)
         {
             var that = (global::DziennikSzkolny.PanelAdministracyjny_Dyrektor)instance;
             return that.DefaultViewModel;
         }
-        private object get_3_PanelAdministracyjny_Dyrektor_NavigationHelper(object instance)
+        private object get_5_PanelAdministracyjny_Dyrektor_NavigationHelper(object instance)
         {
             var that = (global::DziennikSzkolny.PanelAdministracyjny_Dyrektor)instance;
             return that.NavigationHelper;
@@ -295,28 +317,40 @@ namespace DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo
 
             switch (longMemberName)
             {
+            case "DziennikSzkolny.EdycjaDanych_Uczniowie.DefaultViewModel":
+                userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.EdycjaDanych_Uczniowie");
+                xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "DziennikSzkolny.Common.ObservableDictionary");
+                xamlMember.Getter = get_0_EdycjaDanych_Uczniowie_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "DziennikSzkolny.EdycjaDanych_Uczniowie.NavigationHelper":
+                userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.EdycjaDanych_Uczniowie");
+                xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "DziennikSzkolny.Common.NavigationHelper");
+                xamlMember.Getter = get_1_EdycjaDanych_Uczniowie_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
             case "DziennikSzkolny.Opcje.DefaultViewModel":
                 userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.Opcje");
                 xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "DziennikSzkolny.Common.ObservableDictionary");
-                xamlMember.Getter = get_0_Opcje_DefaultViewModel;
+                xamlMember.Getter = get_2_Opcje_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "DziennikSzkolny.Opcje.NavigationHelper":
                 userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.Opcje");
                 xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "DziennikSzkolny.Common.NavigationHelper");
-                xamlMember.Getter = get_1_Opcje_NavigationHelper;
+                xamlMember.Getter = get_3_Opcje_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "DziennikSzkolny.PanelAdministracyjny_Dyrektor.DefaultViewModel":
                 userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.PanelAdministracyjny_Dyrektor");
                 xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "DziennikSzkolny.Common.ObservableDictionary");
-                xamlMember.Getter = get_2_PanelAdministracyjny_Dyrektor_DefaultViewModel;
+                xamlMember.Getter = get_4_PanelAdministracyjny_Dyrektor_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "DziennikSzkolny.PanelAdministracyjny_Dyrektor.NavigationHelper":
                 userType = (global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("DziennikSzkolny.PanelAdministracyjny_Dyrektor");
                 xamlMember = new global::DziennikSzkolny.DziennikSzkolny_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "DziennikSzkolny.Common.NavigationHelper");
-                xamlMember.Getter = get_3_PanelAdministracyjny_Dyrektor_NavigationHelper;
+                xamlMember.Getter = get_5_PanelAdministracyjny_Dyrektor_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             }
