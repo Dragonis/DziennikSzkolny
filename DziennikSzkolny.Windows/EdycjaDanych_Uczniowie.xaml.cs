@@ -102,5 +102,15 @@ namespace DziennikSzkolny
         }
 
         #endregion
+
+        private void PokazUczniów(object sender, TappedRoutedEventArgs e)
+        {
+            if (this.Frame != null)
+            {
+                this.Frame.Navigate(typeof(
+                    StronazListaUczniow
+                    ));
+            }
+        }
     }
 }

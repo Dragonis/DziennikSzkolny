@@ -123,6 +123,9 @@
       <DependentUpon>PanelAdministracyjny_Dyrektor.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StronazListaUczniow.xaml.cs">
+      <DependentUpon>StronazListaUczniow.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -150,6 +153,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="PanelAdministracyjny_Dyrektor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StronazListaUczniow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
