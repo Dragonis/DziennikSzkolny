@@ -1,0 +1,1 @@
+c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\DziennikSzkolny.Windows.csproj;neutral

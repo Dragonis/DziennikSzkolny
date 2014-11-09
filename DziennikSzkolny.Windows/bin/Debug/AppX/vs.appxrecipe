@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DRAGONIS</Machine>
+    <WindowsUser>Wojtek</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>35c5fc23-f7b5-4593-9982-3ad0716bc2de</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FEFC4DB68948813FF384AA90680C7D2083E599C93FB74C25506E399D259E60E8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>35c5fc23-f7b5-4593-9982-3ad0716bc2de_1.0.0.0_neutral__5rymg8rs03t1m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>35c5fc23-f7b5-4593-9982-3ad0716bc2de_5rymg8rs03t1m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>35c5fc23-f7b5-4593-9982-3ad0716bc2de</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Wojtek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-09T13:28:54.053</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.exe">
+      <PackagePath>DziennikSzkolny.Windows.exe</PackagePath>
+      <Modified>2014-11-09T13:50:47.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-09T13:28:52.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-09T13:28:52.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\PanelAdministracyjny_Dyrektor.xbf">
+      <PackagePath>PanelAdministracyjny_Dyrektor.xbf</PackagePath>
+      <Modified>2014-11-09T13:50:47.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\DziennikSzkolny.Windows.xr.xml">
+      <PackagePath>DziennikSzkolny.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-09T13:50:47.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wojtek\documents\visual studio 2013\Projects\DziennikSzkolny\DziennikSzkolny\DziennikSzkolny.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-09T13:28:53.844</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
